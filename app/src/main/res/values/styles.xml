@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#FFC107</item>
+        <item name="colorPrimaryDark">#FFA000</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="BlackActivity" parent="AppTheme" >
+        <item name="colorPrimaryDark">#000</item>
+    </style>
+    <style name="ShowYazid" parent="AppTheme" >
+        <item name="colorPrimaryDark">#129bfd</item>
+    </style>
+    <style name="grisTimeLine" parent="AppTheme" >
+        <item name="colorPrimaryDark">#a7a7a7</item>
+    </style>
+
+</resources>
